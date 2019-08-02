@@ -1,0 +1,47 @@
+#history{
+	padding-top: 100px;
+}
+
+.jumbotron img {
+	height: 100%;
+	width: 100%;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+#history img {
+	height: 100%;
+	width: 100%;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+#productdisplay img{
+	height: 200px;
+	width: 100%;
+}
+#productdisplay h4{
+	text-align: center;
+}
+#productdisplay {
+	padding-bottom: 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
